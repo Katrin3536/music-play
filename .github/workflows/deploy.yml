@@ -1,4 +1,4 @@
-name:MusicFun Deploy
+name: MusicFun Deploy
 
 on:
   push:
